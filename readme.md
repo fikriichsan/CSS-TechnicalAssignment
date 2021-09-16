@@ -8,11 +8,11 @@ Program ini merupakan program yang dibuat untuk menyelesaikan tugas CSS - Techni
 ## Tampilan
 
 1. Selector
-    >**
-2. Box
-    >**
+    >*https://fikri-selectorl.netlify.app/*
+2. Box-Model
+    >*https://fikri-boxmodel.netlify.app/*
 3. Display
-    >**
+    >*https://fikri-display.netlify.app/*
 4. Flexbox
     >![Flexbox](Flexbox/flexFroggy.png)
 
