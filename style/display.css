@@ -12,6 +12,6 @@ nav a {
     padding: 10px 15px;
 }
 
-nav :hover{
+nav a:hover{
     background-color: gainsboro;
 }
